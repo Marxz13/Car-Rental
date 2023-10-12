@@ -2,7 +2,6 @@
 -
 **Description**<br>
 -
-Briefly describe what the project does, its features, and its purpose.
 This project is a rental car system designed for employees to easily manage customer details and car availabilities. Built with HTML,CSS,PHP,Javascript, the system simplifies the process of car rentals and ensures a smooth customer experience.
 
 **Features**
