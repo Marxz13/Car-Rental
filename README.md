@@ -25,6 +25,19 @@ Car Availability: Quickly update which cars are available or rented.
 ![Update](https://github.com/Marxz13/Car-Rental/assets/141631535/cb867652-8660-4a98-91d8-8090a2d15b6e)
 ![Delete](https://github.com/Marxz13/Car-Rental/assets/141631535/cf8513ae-15f2-42b6-a022-c6c36b00b089)
 
+<h2>Isntallation</h2>
+1. Launch XAMPP
+2. Starting Apache and MySQL
+3. Importing MySQL Database
+Open Web Browser: Navigate to http://localhost/phpmyadmin.
+Login: Use "root" as the username and leave the password field blank (unless you've set a password).
+Create Database: Create a new database or select an existing one where you wish to import your SQL file.
+Import SQL: Click on the Import tab, browse for your .sql file and click Go.
+Start MySQL: Similarly, locate the MySQL module and click the Start button next to it.
+Locate htdocs: Navigate to your XAMPP installation folder, usually C:\xampp, and open the htdocs folder.
+Copy Project Folder: Copy your project folder containing the existing index.php and any other required files into the htdocs directory.
+Access in Browser: Open your web browser and go to http://localhost/index.php
+
 **Contributing**
 -
 Marz <br>
